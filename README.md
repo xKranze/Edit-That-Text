@@ -31,6 +31,8 @@ Please view the video demo link below to see how to use the application:
 
 ## Credits
 
+Starter code provided by: https://github.com/coding-boot-camp/cautious-meme
+
 UW BOOTCAMP ACTIVITY
 
 Tutoring
